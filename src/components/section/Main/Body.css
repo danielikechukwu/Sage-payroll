@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+
+.Body__container {
+    
+    background-color: white;
+    margin-top: 2%;
+    padding: 2%;
+    border-radius: 9px;
+    
+    /* height: 70%; */
+    
+
+
+}
+
+.content__Div {
+
+    width: 100%;
+    margin: 2% 4% 4% 4%;
+    
+}
+
+h5 {
+    color: black;
+    font-size: 14px;
+}
+
+.BiDotsVerticalRounded {
+
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 29%;
+    cursor: pointer;
+}
+
+
+
+

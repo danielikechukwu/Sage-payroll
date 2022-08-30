@@ -1,0 +1,56 @@
+.child__Header {
+ 
+    width: 100%;
+    background-color: rgb(158, 75, 236);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    
+ 
+}
+
+.childHeader__firstText {
+
+    margin-left: 5%;
+    display: flex;
+    width: 22%;
+    align-items: center;
+}
+
+.childHeader__secondText {
+    margin-right: 5%;
+    display: flex;
+    align-items: center;
+}
+
+h4 {
+    color: white;
+    
+}
+
+h5 {
+    color: white;
+}
+
+.CHSN__abbrv {
+    background-color: rgb(8, 8, 141);
+    color: white;
+    margin-right: 11px;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.CHFN__abbrv {
+    margin-right: 9px;
+    background-color: rgb(8, 8, 141);
+    color: white;
+    height: 50%;
+    position: relative;
+    padding: 3%;
+    font-weight: bold;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 8px;
+
+}

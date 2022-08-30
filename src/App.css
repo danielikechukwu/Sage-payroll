@@ -1,0 +1,14 @@
+html, body, #root, .App {
+ height: 100%;
+ width: 100%;
+ 
+}
+
+.lower__layer {
+
+    display: flex;  
+    background-color: rgb(244, 246, 248);
+    height: 100%;
+    margin-bottom: 79%;
+
+}
