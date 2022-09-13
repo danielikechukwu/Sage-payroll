@@ -1,15 +1,20 @@
 import * as React from 'react';
-
-import './Navigator.css'
-
+import Accordion  from './Accordion';
+import './Navigator.css';
 
 function Navigator() {
+
   return (
-    <div className='container'>
+
+    <div className='container'>  
+
+        <Accordion />    
 
     </div>
 
   );
+
 }
 
 export default Navigator
+
