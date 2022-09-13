@@ -4,10 +4,8 @@
     background-color: rgb(158, 75, 236);
     display: flex;
     align-items: center;
-    justify-content: space-between;
-   
-    
- 
+    justify-content: space-between; 
+     
 }
 
 .childHeader__firstText {
@@ -19,6 +17,7 @@
 }
 
 .childHeader__secondText {
+    
     margin-right: 5%;
     display: flex;
     align-items: center;
